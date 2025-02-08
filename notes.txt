@@ -1,1 +1,4 @@
 this is new branch
+
+Filing a pull request (PR) for incomplete work, often referred to as a "Work in Progress" (WIP) or "Draft" pull request, is a common practice in collaborative development.
+ This allows you to share your progress, get feedback, and collaborate with others before the feature is complete. 
