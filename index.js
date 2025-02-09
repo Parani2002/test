@@ -12,3 +12,9 @@ function sub(a, b) {
     return a - b;
 }
 console.log(sub(5, 3));
+
+
+const multiply = (a, b) => {
+    return a * b;
+}   
+console.log(multiply(2, 3));
